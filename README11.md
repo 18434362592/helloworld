@@ -1,2 +1,0 @@
-# helloworld
-# how are you
